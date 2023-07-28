@@ -11,7 +11,7 @@ This code is mainly open source about the application of multi-objective optimiz
 
 If the code is helpful to you, please cite the following paper：
 
-
+```bibtex
 @article{liu2020new,
   title={A new hybrid ensemble deep reinforcement learning model for wind speed short term forecasting},
   author={Liu, Hui and Yu, Chengqing and Wu, Haiping and Duan, Zhu and Yan, Guangxi},
@@ -21,8 +21,9 @@ If the code is helpful to you, please cite the following paper：
   year={2020},
   publisher={Elsevier}
 }
+```
 
-
+```bibtex
 @article{chengqing2023multi,
   title={A multi-factor driven spatiotemporal wind power prediction model based on ensemble deep graph attention reinforcement learning networks},
   author={Chengqing, Yu and Guangxi, Yan and Chengming, Yu and Yu, Zhang and Xiwei, Mi},
@@ -32,3 +33,4 @@ If the code is helpful to you, please cite the following paper：
   year={2023},
   publisher={Elsevier}
 }
+```
